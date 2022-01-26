@@ -1,0 +1,8 @@
+time:1 output value: 00000000 Power : 8
+time:1 output value: 00000000 Power : 8
+time:21 output value: 10011001 Power : 24
+time:21 output value: 10011001 Power : 24
+time:41 output value: 10011001 Power : 24
+time:51 output value: 00110010 Power : 48
+time:61 output value: 00011001 Power : 56
+time:71 output value: 00001100 Power : 64
